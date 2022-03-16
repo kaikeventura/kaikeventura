@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a fintech
 - 🌱 I’m currently learning design patterns
-- 📫 How to reach me: https://br.linkedin.com/in/kaike-ventura-185695aa
+- 📫 How to reach me: [Linkedin](https://br.linkedin.com/in/kaike-ventura-185695aa)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love cats
 
