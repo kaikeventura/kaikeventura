@@ -1,8 +1,4 @@
-### Hi! 👋🇧🇷
-
-- 🔭 I’m currently working on a fintech
-- 📫 How to reach me: [Linkedin](https://br.linkedin.com/in/kaike-ventura-185695aa)
-- 😄 Pronouns: He/His
+###
 
 <div align="center">
   <a href="https://github.com/kaikeventura">
